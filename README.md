@@ -32,11 +32,11 @@ Technology excites me and Certain skills that I have working with include JavaSc
 
 <a href="http://www.github.com/satyam32-sat"><img src="https://github-readme-streak-stats.herokuapp.com/?user=satyam32-sat&stroke=ffffff&background=000000&ring=84cc16&fire=84cc16&currStreakNum=ffffff&currStreakLabel=84cc16&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
-<a href="https://github.com/satyam32-sat" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=satyam32-sat&langs_count=10&title_color=84cc16&text_color=ffffff&icon_color=3382ed&bg_color=000000&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
-
 <b>Top Repositories</b>
 
 <div width="100%" align="center"><a href="https://github.com/satyam32-sat/https://github.com/satyam32-sat/satyam32-sat" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=satyam32-sat&repo=https://github.com/satyam32-sat/satyam32-sat&title_color=84cc16&text_color=ffffff&icon_color=3382ed&bg_color=000000&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
+
+
 
 <!---
 satyam32-sat/satyam32-sat is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
