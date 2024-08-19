@@ -34,7 +34,8 @@ Technology excites me and Certain skills that I have working with include JavaSc
 
 <b>Top Repositories</b>
 
-<div width="100%" align="center"><a href="https://github.com/satyam32-sat/https://github.com/satyam32-sat/satyam32-sat" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=satyam32-sat&repo=https://github.com/satyam32-sat/satyam32-sat&title_color=84cc16&text_color=ffffff&icon_color=3382ed&bg_color=000000&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
+<div width="100%" align="center"><a href="https://github.com/satyam32-sat/satyam" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=satyam32-sat&repo=satyam&title_color=84cc16&text_color=ffffff&icon_color=3382ed&bg_color=000000&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
+
 
 
 
