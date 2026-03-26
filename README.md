@@ -10,7 +10,7 @@ Technology excites me and Certain skills that I have working with include JavaSc
 * ✉️  You can contact me at [pandeysatyam346@gmail.com](mailto:pandeysatyam346@gmail.com)
 * 🧠  I'm learning a new frameworks and technologies.
 * 🤝  I'm open to collaborating on Web Projects
-* ⚡  I am a Backend Developer
+* ⚡  I am a Full Stack Developer
 
 ### Skills
 
