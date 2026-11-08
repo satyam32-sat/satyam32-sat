@@ -1,84 +1,129 @@
-<h1 align="left">👋 Hi there, I'm Satyam Pandey!</h1>
+<!-- ========================= HEADER ========================= -->
+<div align="center">
 
-<p align="left">
-  <b>MERN-Stack Developer</b> · JavaScript · Node.js · MongoDB
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:84cc16&height=220&section=header&text=Satyam%20Pandey&fontSize=56&fontColor=ffffff&fontAlignY=38&desc=MERN-Stack%20Developer&descSize=20&descAlignY=58&animation=fadeIn" alt="Satyam Pandey - MERN-Stack Developer" />
+
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=84CC16&center=true&vCenter=true&width=520&height=40&lines=Full-stack+web+apps+with+React+%26+Node.js;JavaScript+%C2%B7+Express+%C2%B7+MongoDB;Clean+code.+Fast+APIs.+Solid+UIs.;Open+to+opportunities+%26+collaboration" alt="Typing animation" />
+</a>
+
+<br/>
+
+<img src="https://img.shields.io/badge/Based_in-Gorakhpur,_India-000000?style=for-the-badge&logo=googlemaps&logoColor=84cc16" alt="Location" />
+<img src="https://komarev.com/ghpvc/?username=satyam32-sat&label=Profile+views&color=84cc16&style=for-the-badge" alt="Profile views" />
+
+</div>
 
 ---
 
 ### 🚀 About Me
 
-- 🌍 Based in **Gorakhpur, India**
-- 💻 MERN-Stack Developer building web apps with JavaScript, Node.js & MongoDB
-- 🧠 Currently exploring new frameworks and technologies
-- 🤝 Open to collaborating on web projects
-- ⚡ Always up for solving interesting problems — reach out if you have one!
-- ✉️ Reach me at **pandeysatyam346@gmail.com**
+- 💻 **MERN-Stack Developer** who builds complete web apps, from the React UI to the Express API to the MongoDB schema
+- 🧩 I turn ideas into working products with clean, maintainable code
+- 🔧 Comfortable across the stack: REST APIs, authentication, database design, and responsive interfaces
+- 📚 Solid CS fundamentals through **Java, C, and Python**
+- 🤝 Open to **[internships / freelance work / full-time roles / open-source collaboration]**, so edit this line to match your goal
+- ✉️ Best way to reach me: **pandeysatyam346@gmail.com**
 
 ---
 
-### 🛠️ When I code, I rely on
+### 🛠️ Tech Stack
 
-<p align="left">
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-<img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" />
-<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-<img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
-<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
-<img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white" />
-<img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" />
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
-</p>
+<div align="center">
+
+**Frontend**<br/>
+<img src="https://skillicons.dev/icons?i=html,css,js,react,bootstrap&theme=dark" alt="Frontend" />
+
+**Backend**<br/>
+<img src="https://skillicons.dev/icons?i=nodejs,express&theme=dark" alt="Backend" />
+
+**Database**<br/>
+<img src="https://skillicons.dev/icons?i=mongodb&theme=dark" alt="Database" />
+
+**Languages**<br/>
+<img src="https://skillicons.dev/icons?i=js,java,c,py&theme=dark" alt="Languages" />
+
+**Tools**<br/>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,npm&theme=dark" alt="Tools" />
+
+</div>
+
+---
+
+### 📂 Featured Projects
+
+<div align="center">
+
+| Project | Description | Tech Used | Links |
+|:--------|:------------|:----------|:------|
+| **[Project Name 1]** | [One-line description] | [React · Node.js · MongoDB] | [Live](#) · [Code](#) |
+| **[Project Name 2]** | [One-line description] | [Tech used] | [Live](#) · [Code](#) |
+| **[Project Name 3]** | [One-line description] | [Tech used] | [Live](#) · [Code](#) |
+
+</div>
+
+<div align="center">
+
+<a href="https://github.com/satyam32-sat?tab=repositories">
+  <img src="https://img.shields.io/badge/See_all_repositories-000000?style=for-the-badge&logo=github&logoColor=84cc16" alt="All repositories" />
+</a>
+
+</div>
+
+---
+
+### 🌱 Currently Learning & Working On
+
+- 🔭 **Learning:** [e.g., TypeScript, Next.js, system design]
+- 🏗️ **Building:** [e.g., a full-stack project you're working on]
+- 🎯 **Next goal:** [e.g., contribute to an open-source project]
+
+> 💡 **Fun fact:** [Add a fun fact about yourself here]
+
+---
+
+### 📊 GitHub Stats
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=satyam32-sat&show_icons=true&count_private=true&hide_border=true&bg_color=000000&title_color=84cc16&text_color=ffffff&icon_color=84cc16" alt="GitHub stats" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=satyam32-sat&layout=compact&hide_border=true&bg_color=000000&title_color=84cc16&text_color=ffffff" alt="Top languages" />
+
+<img src="https://streak-stats.demolab.com/?user=satyam32-sat&theme=dark&hide_border=true&background=000000&ring=84cc16&fire=84cc16&currStreakLabel=84cc16&currStreakNum=ffffff&sideNums=ffffff&sideLabels=ffffff&dates=ffffff" alt="GitHub streak" />
+
+<img src="https://github-profile-trophy.vercel.app/?username=satyam32-sat&theme=dark&no-frame=true&no-bg=false&margin-w=8&column=7" alt="GitHub trophies" />
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=satyam32-sat&bg_color=000000&color=ffffff&line=84cc16&point=ffffff&area=true&area_color=84cc16&hide_border=true" alt="Contribution activity graph" />
+
+</div>
 
 ---
 
 ### 📫 Let's Connect
 
-<p align="left">
-<a href="https://www.github.com/satyam32-sat" target="_blank">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+<div align="center">
+
+<a href="https://github.com/satyam32-sat">
+  <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=84cc16" alt="GitHub" />
 </a>
-<a href="https://www.linkedin.com/in/satyam-pandey-163669310" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+<a href="https://www.linkedin.com/in/satyam-pandey-163669310">
+  <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=84cc16" alt="LinkedIn" />
 </a>
-<a href="mailto:pandeysatyam346@gmail.com" target="_blank">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+<a href="mailto:pandeysatyam346@gmail.com">
+  <img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=84cc16" alt="Email" />
 </a>
-</p>
+<a href="https://your-portfolio-link.com">
+  <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=googlechrome&logoColor=84cc16" alt="Portfolio" />
+</a>
+
+</div>
 
 ---
 
-### 📊 My GitHub Stats
+<div align="center">
 
-<p align="left">
-<a href="http://www.github.com/satyam32-sat">
-  <img src="https://github-readme-stats.vercel.app/api?username=satyam32-sat&show_icons=true&count_private=true&title_color=84cc16&text_color=ffffff&icon_color=3382ed&bg_color=000000&hide_border=true" alt="Satyam's GitHub stats" height="165"/>
-</a>
-<a href="http://www.github.com/satyam32-sat">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=satyam32-sat&stroke=ffffff&background=000000&ring=84cc16&fire=84cc16&currStreakNum=ffffff&currStreakLabel=84cc16&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" alt="GitHub streak" height="165"/>
-</a>
-</p>
+<i>Thanks for stopping by. If you have a project, a role, or an idea, let's talk.</i>
 
-<p align="left">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=satyam32-sat&layout=compact&title_color=84cc16&text_color=ffffff&bg_color=000000&hide_border=true" alt="Top languages" />
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:84cc16,100:000000&height=120&section=footer" alt="Footer wave" />
 
-### 📌 Pinned Repository
-
-<p align="left">
-<a href="https://github.com/satyam32-sat/satyam">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=satyam32-sat&repo=satyam&title_color=84cc16&text_color=ffffff&icon_color=3382ed&bg_color=000000&hide_border=true&locale=en" alt="satyam repo" />
-</a>
-</p>
-
----
-
-<p align="center"><i>Thanks for stopping by — feel free to reach out if you'd like to collaborate! ✨</i></p>
-
-<!---
-satyam32-sat/satyam32-sat is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
---->
+</div>
